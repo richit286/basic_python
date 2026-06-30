@@ -1,0 +1,45 @@
+{
+    "tanggal": "2026-06-30 16:00:19",
+    "jumlah_pelanggan": 1,
+    "total_toko": 5124400.0,
+    "transaksi": [
+        {
+            "antrian": 1,
+            "riwayat": [
+                {
+                    "item": "Ayam",
+                    "jumlah": 100,
+                    "subtotal": 1350000.0
+                },
+                {
+                    "item": "Babi",
+                    "jumlah": 313,
+                    "subtotal": 2754400.0
+                },
+                {
+                    "item": "Sapi",
+                    "jumlah": 100,
+                    "subtotal": 1020000.0
+                }
+            ],
+            "riwayat_diskon": [
+                {
+                    "item": "Ayam",
+                    "jumlah": 100,
+                    "potongan": 150000.0
+                },
+                {
+                    "item": "Babi",
+                    "jumlah": 313,
+                    "potongan": 375600.0
+                },
+                {
+                    "item": "Sapi",
+                    "jumlah": 100,
+                    "potongan": 180000.0
+                }
+            ],
+            "grand_total": 5124400.0
+        }
+    ]
+}
